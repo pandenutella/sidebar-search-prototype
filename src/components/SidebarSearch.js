@@ -13,7 +13,12 @@ const SidebarSearch = ({ search, onSearch }) => {
         paddingRight: 10,
       }}
     >
-      <Input value={search} onChange={handleChange} allowClear />
+      <Input
+        value={search}
+        onChange={handleChange}
+        placeholder="Type anything to filter the menu"
+        allowClear
+      />
     </div>
   );
 };
