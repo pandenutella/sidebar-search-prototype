@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sidebar-search-prototype/static/css/main.3ba11a60.css",
+    "main.js": "/sidebar-search-prototype/static/js/main.db8d2bbb.js",
+    "static/js/787.d12b7ce6.chunk.js": "/sidebar-search-prototype/static/js/787.d12b7ce6.chunk.js",
+    "index.html": "/sidebar-search-prototype/index.html",
+    "main.3ba11a60.css.map": "/sidebar-search-prototype/static/css/main.3ba11a60.css.map",
+    "main.db8d2bbb.js.map": "/sidebar-search-prototype/static/js/main.db8d2bbb.js.map",
+    "787.d12b7ce6.chunk.js.map": "/sidebar-search-prototype/static/js/787.d12b7ce6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ba11a60.css",
+    "static/js/main.db8d2bbb.js"
+  ]
+}
